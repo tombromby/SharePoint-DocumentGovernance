@@ -1,7 +1,11 @@
-in here is
-powershell for running in Azure automation to perform nightly queries against log analytics and also SPO directly
-Power BI M language queries for the data produced
-CSOM to use in Azure automation to support C# in PoSH for SPO connectivity
+Use this to report on what is going on with all the documents in your sharepoint online - who's sharing with who, what new sites are being created, who is opening restricted sites/docuemtns, what is being deleted etc 
+
+
+in here is:
+
+ - powershell for running in Azure automation to perform nightly queries against log analytics and also SPO directly
+ - Power BI M language queries for the data produced
+ - CSOM to use in Azure automation to support C# in PoSH for SPO connectivity
 
 Docgov reports are all the PowerBI M queries - update URIs and analytics workspace GUIDs
 Add LogAnalyticsQuery as a module in Azure automation
